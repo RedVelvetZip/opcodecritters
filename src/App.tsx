@@ -130,6 +130,8 @@ function App() {
         <br/>
         <p>-<a href="https://twitter.com/BitcoinRollups">Documenting Bitcoin Rollups</a></p>
         <br/>
+        <br/>
+        <p>-Join the <a href="https://twitter.com/QuantumCatsXYZ">Quantum Cats</a> and <a href="https://twitter.com/TaprootWizards">Taproot Wizards</a> communities</p>
       </section>
       <section id="team" className="team">
         <div className="team-chars">
