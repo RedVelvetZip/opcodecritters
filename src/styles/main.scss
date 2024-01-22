@@ -507,6 +507,12 @@ section {
         .puzzle-two {
             width: 30%;
         }
+        .learn-text {
+            padding-left: 5%;
+            p {
+                white-space: wrap;
+            }
+        }
     }
     .play {
         background-image: url(../assets/bg-roadmap.png);
@@ -547,6 +553,9 @@ section {
         }
         img {
             object-fit: contain;
+        }
+        p {
+            font-size: 16px;
         }
     }
     .anatomy {
