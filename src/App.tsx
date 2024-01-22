@@ -66,7 +66,8 @@ function App() {
           <div className="learn-text">
             <p>Let's learn about OP_CAT!</p>
             <br/><br/>
-            <p>OP_CAT is a Bitcoin <a href="https://opcodeexplained.com/opcodes/OP_CAT.html#op-cat"></a>opcode, but it's been disabled! (by Satoshi himself)</p>
+            <p>OP_CAT was once a Bitcoin <a href="https://opcodeexplained.com/opcodes/OP_CAT.html#op-cat">opcode</a>, but then it was disabled!</p>
+            <p>Should it be added back?</p>
             <br/><br/>
             <p>Here are some useful links to get started:</p>
             <p> - The opcode specifications, <a href="https://github.com/EthanHeilman/op_cat_draft/blob/main/cat.mediawiki">BIP draft</a></p>
@@ -113,7 +114,7 @@ function App() {
           <br/><br/><br/><br/><br/>
           <h2>Ok now that you're an OP_CAT expert, what comes next? Here's some further reading</h2>
         </div>
-        <p>-An encyclopedia of opcodes, <a href="https://opcodeexplained.com/opcodes/OP_CAT.html#op-cat">Opcode Explained</a></p>
+        <p>-An encyclopedia of opcodes, <a href="https://opcodeexplained.com/">Opcode Explained</a></p>
         <br/>
         <p>-Turing-completeness on Bitcoin, <a href="https://www.thevgbclub.com/p/bitvm-update-oct-13">BitVM</a></p>
         <br/>
