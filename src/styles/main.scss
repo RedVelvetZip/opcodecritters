@@ -447,6 +447,7 @@ section {
         }
     }
     .home {
+        height: calc(50vh);
         .home-char {
             width: 30%;
         }
@@ -483,13 +484,13 @@ section {
         display: none;
     }
     .home {
-        // height: 70vh;
+        height: 50vh;
         .home-char {
             width: 60%;
         }
         .puzzle-one {
             width: 65%;
-            bottom: -40%;
+            bottom: -20%;
         }
         .optitle {
             font-size: 50px;
@@ -584,10 +585,10 @@ section {
         }
     }
     .team {
-        height: 40vh;
+        height: 20vh;
         .puzzle-five {
             z-index: 3;
-            height: 20%;
+            height: 100%;
             position: absolute;
             bottom: -12%;
             align-items: center;
