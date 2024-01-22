@@ -96,6 +96,10 @@ function App() {
           </p>
           <div>
           <iframe src="https://redvelvetzip.github.io/pokemon-battle-system/" width="1000" height="900"></iframe>
+          {/* <div className="responsive-iframe-container">
+            <iframe className="responsive-iframe" src="https://redvelvetzip.github.io/pokemon-battle-system/"></iframe>
+          </div> */}
+
           </div>
           {/* <p >
             yyyy
@@ -126,20 +130,6 @@ function App() {
         <br/>
         <p>-<a href="https://twitter.com/BitcoinRollups">Documenting Bitcoin Rollups</a></p>
         <br/>
-        
-        
-        <div className="act-2">
-          {/* <img src={act2} alt="act2"></img> */}
-        </div>
-        <div className="act-3">
-          {/* <img src={act3} alt="act3"></img> */}
-        </div>
-        <div className="act-4">
-          {/* <img src={act4} alt="act4"></img> */}
-        </div>
-        <div className="play-text">
-          {/* <img src={forging} alt="forging"></img> */}
-        </div>
       </section>
       <section id="team" className="team">
         <div className="team-chars">
