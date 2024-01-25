@@ -154,6 +154,11 @@ section {
             font-weight: 600;
             white-space: nowrap;
         }
+        h2 {
+            width: 100%;
+            font-size: 4vh;
+            white-space: wrap;
+        }
     }
     .puzzle-two {
         z-index: 6;
